@@ -1,0 +1,9 @@
+VÄSTRA BYGG & FASTIGHETER
+
+Öppna index.html för att visa hemsidan. Behåll alla HTML-filer, style.css, app.js och mappen assets tillsammans.
+
+31 sidor inklusive 15 projektsidor och 8 tjänstesidor. Alla bilder och typsnitt följer med lokalt.
+
+Projektguiden skapar ett mejlutkast. Besökaren skickar själv via sin mejlapp; ingen automatisk formulärleverans är ansluten.
+
+Innehåll och originalbilder från vastra-byggfast.se, hämtade den 6 oktober 2026. Källor till projekt och kundomdömen finns länkade på respektive sida.
